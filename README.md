@@ -1,4 +1,4 @@
-## Desvendando Atletas! (meu primeiro código)
+## Desvendando Atletas! - Imersão Alura
 
 **O que faz essa aplicação?**
 
